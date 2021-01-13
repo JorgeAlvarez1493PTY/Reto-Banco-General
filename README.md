@@ -1,7 +1,4 @@
 # Reto-Banco General
-  
-  <a href="https://github.com/othneildrew/Best-README-Template">
-  <img src="main/Reto.PNG" alt="Reto" width="80" height="80">
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -26,6 +23,36 @@
 ## Construido Con
 Esta seccion busca listar todos los frameworks  o en este caso herramientas utilizadas en la ejecucion de este proyecto
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [Spring Boot](https://spring.io/)
+* [Java SDK](https://www.oracle.com/java/technologies/javase-downloads.html)
+* [Maven](https://maven.apache.org/)
+* [MySQL](https://www.mysql.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+
+## Empezar
+
+Para utilzar las Rest API creadas en este repositorio es necesario tener instalada las siguientes herramientas:
+
+<li>
+   <ul>
+    <li>MySQL</a></li>
+    <li>JAVA SDK version 11 o superior</a></li>
+    <li>Visual Studio Code</a></li>
+</ul>
+ </li>
+
+Luego de tener todas las herramientas instaladas es importante instalar las siguientes extenciones en el **Visual Studio Code**:
+<li>
+   <ul>
+    <li>Maven for Java</a></li>
+    <li>Spring Boot Dashboard</a></li>
+    <li>Spring Boot Tools</a></li>
+</ul>
+ </li>
+ 
+ Ademas de las extenciones de Visual tambien debemos crear una nueva base datos con una tabla de acuerdo al documento de data.SQL que se encuentra en la carpeta de 
+ 
+ Descomprimos la carpeta Zip de este repositorio y la subimos a nuestro entorno de **Visual Code Studio**
+ 
+Hacemos click en **Run** 
+
