@@ -1,0 +1,15 @@
+--Crear base de datos en mySQL
+
+create database usersforweb;
+
+--Utilizar la base de datos creada
+
+use  usersforweb;
+
+--Crear tabla de usuarios
+
+create table User( ID int AUTO_INCREMENT, Nombre varchar(500) not null, Apellido varchar(500) not null, PRIMARY KEY(ID));
+
+--Insertar al menos un valor en la tabla de usuarios
+INSERT INTO User (Nombre, Apellido)
+VALUES ('Jorge', 'Alvarez');
