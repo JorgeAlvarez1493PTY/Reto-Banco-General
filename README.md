@@ -37,11 +37,11 @@ Para utilzar las Rest API creadas en este repositorio es necesario tener instala
    <ul>
     <li>MySQL</a></li>
     <li>JAVA SDK version 11 o superior</a></li>
-    <li>Visual Studio Code</a></li>
+    <li>Visual Studio Code (IDE utilzado)</a></li>
 </ul>
  </li>
 
-Luego de tener todas las herramientas instaladas es importante instalar las siguientes extenciones en el **Visual Studio Code**:
+En caso de usar **Visual Studio Code** es importante instalar las siguientes extenciones:
 <li>
    <ul>
     <li>Maven for Java</a></li>
@@ -50,9 +50,10 @@ Luego de tener todas las herramientas instaladas es importante instalar las sigu
 </ul>
  </li>
  
- Ademas de las extenciones de Visual tambien debemos crear una nueva base datos con una tabla de acuerdo al documento de data.SQL que se encuentra en la carpeta de 
+Tambien debemos crear una nueva base datos con una tabla de acuerdo al documento de data.SQL que se encuentra en la carpeta de \Reto-Banco-General-main\Reto-Banco-General-main\src\main\resources
+
+Luego de haber creado la base de datos y la tabla e inicializar el proyecto procedemos consumir los end-points indicados en el reto, para este caso se utilzo la herramienta de postman para la verificacion del funcionamiento de las api. La coleccion de las mismas se encuentra en el archivo RetoBancoGeneralApis en la siguiente ruta \Reto-Banco-General-main\Reto-Banco-General-main\src\main\resources
+
  
- Descomprimos la carpeta Zip de este repositorio y la subimos a nuestro entorno de **Visual Code Studio**
- 
-Hacemos click en **Run** 
+
 
