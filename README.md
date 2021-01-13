@@ -1,6 +1,7 @@
 # Reto-Banco General
-
-  <img src="Reto.png" alt="Logo" width="80" height="80">
+  
+  <a href="https://github.com/othneildrew/Best-README-Template">
+  <img src="main/Reto.PNG" alt="Reto" width="80" height="80">
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
